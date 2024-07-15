@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\models\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\employeescrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\employeescrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|c:\\users\\ravi\\source\\repos\\employeescrudapi\\employeescrudapi\\migrations\\20240715043622_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56868586-20C0-4A37-8D62-59A28D7F31A5}|EmployeesCrudAPI\\EmployeesCrudAPI.csproj|solutionrelative:employeescrudapi\\migrations\\20240715043622_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Models\\UpdateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Models\\UpdateEmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:23:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Models\\AddEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Models\\AddEmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:08:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:02:35.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesCrudAPI",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\EmployeesCrudAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\EmployeesCrudAPI.csproj",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\EmployeesCrudAPI.csproj",
+              "RelativeToolTip": "EmployeesCrudAPI\\EmployeesCrudAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T05:06:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240715043622_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Migrations\\20240715043622_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Migrations\\20240715043622_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Migrations\\20240715043622_Initial Migration.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Migrations\\20240715043622_Initial Migration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:04:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Models\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Models\\Domain\\Employee.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Models\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:15:12.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Data\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Data\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Data\\EmployeeDBContext.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Data\\EmployeeDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:12:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeesCrudAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T04:06:30.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesCrudAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravi\\source\\repos\\EmployeesCrudAPI\\EmployeesCrudAPI\\Program.cs",
+              "RelativeToolTip": "EmployeesCrudAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:06.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@EmployeesCrudAPI_HostAddress = http://localhost:5193
+
+GET {{EmployeesCrudAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
